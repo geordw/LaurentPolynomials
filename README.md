@@ -15,3 +15,9 @@ In order to use this package, download the repo and run
 This file should give you a basic understanding of the capabilities of the package.
 
 I am sure there are some bugs. In particular, printing could be prettier. However it should be enough to get started.
+
+My motivation for writing this package was to experiment with Demazure operators in K-theory. You can see some of this functionality running
+
+> magma start-Demazure.m 
+
+(Standard health warnings apply).
